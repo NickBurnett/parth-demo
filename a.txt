@@ -1,2 +1,2 @@
 it's me a.txt!!
-this is a something else
+this is a conflict
